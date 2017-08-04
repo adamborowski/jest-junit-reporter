@@ -1,5 +1,5 @@
 {
-  "name": "jest-junit-reporter",
+  "name": "@adamborowski/jest-junit-reporter",
   "version": "1.1.0",
   "description": "A JUnit test report formatter for Jest.",
   "main": "index.js",

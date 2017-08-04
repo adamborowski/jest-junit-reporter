@@ -7,6 +7,7 @@ class Testsuite {
       .map(result => new Testcase(result));
 
     let suite = {
+      error: result.failureMessage,
       _attr: {
         id,
         name: result.testFilePath,
